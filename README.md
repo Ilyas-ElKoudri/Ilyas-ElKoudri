@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ilyas-Elkoudri" alt="Ilyas-Elkoudri" /></a> </p>
 
-- 🌱 I’m currently learning **Higher Level Programming with Python**
+- 🌱 I’m currently learning **Python Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
