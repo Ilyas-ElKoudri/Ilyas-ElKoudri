@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyas Elkoudri</h1>
 <h3 align="center">A passionate Software engineering student from Morocco</h3> 
 
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/master/icons/504/MA/MA.svg" alt="Morocco" width="40" height="40"/>
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ilyas-Elkoudri&label=Profile%20views&color=0e75b6&style=flat" alt="Ilyas-Elkoudri" /> </p>
 
