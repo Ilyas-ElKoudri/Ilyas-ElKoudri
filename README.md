@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilyas Elkoudri</h1>
-<h3 align="center">A passionate Software engineering student from Morocco</h3>
-
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/master/icons/ma/svg/xx.svg" alt="Morocco" width="40" height="40"/>
+<h3 align="center">A passionate Software engineering student from Morocco</h3> <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/icons/ma/ma.svg" alt="Morocco" width="40" height="40"/>
 
 
 
