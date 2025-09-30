@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilyas Elkoudri</h1>
-<h3 align="center">A passionate Software engineering student from Morocco</h3> 
+<h3 align="center">A passionate Software engineering from Morocco</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ilyas-Elkoudri&label=Profile%20views&color=0e75b6&style=flat" alt="Ilyas-Elkoudri" /> </p>
