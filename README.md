@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ilyas Elkoudri</h1>
-<h3 align="center">A passionate Software engineering from Morocco</h3> 
+<h3 align="center">A passionate Software engineering</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ilyas-Elkoudri&label=Profile%20views&color=0e75b6&style=flat" alt="Ilyas-Elkoudri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ilyas-Elkoudri" alt="Ilyas-Elkoudri" /></a> </p>
 
-- 🌱 I’m currently learning **APS.NET Core WEB API**
+- 🌱 I’m currently an Intern as a .NET Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
