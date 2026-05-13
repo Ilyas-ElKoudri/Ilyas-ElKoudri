@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Software Engineering** passionate about building scalable back-end solutions.
 - 🚀 focusing on building robust APIs and enterprise applications.
-- 🛠️ **ASP.NET Core, Entity Framework, and Clean Architecture.**
+- 🛠️ **ASP.NET Core, Entity Framework, MS SQL Server, Azure.**
   
 
 ---
