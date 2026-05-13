@@ -14,10 +14,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Software Engineering Student** passionate about building scalable back-end solutions.
-- 🚀 **Currently Interning as a .NET Developer**, focusing on building robust APIs and enterprise applications.
-- 🛠️ Deepening my knowledge in **ASP.NET Core, Entity Framework, and Clean Architecture.**
-- 💬 Ask me about: **C#, .NET, and Object-Oriented Programming.**
+- 🎓 **Software Engineering** passionate about building scalable back-end solutions.
+- 🚀 focusing on building robust APIs and enterprise applications.
+- 🛠️ **ASP.NET Core, Entity Framework, and Clean Architecture.**
+  
 
 ---
 
