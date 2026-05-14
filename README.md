@@ -15,7 +15,7 @@ I am a software engineer specialized in building robust, high-performance, and s
 * 🏗️ **Architectural Focus:** Designing diverse system topologies from robust **Monoliths** and **Modular Monoliths** to scalable **Microservices**, utilizing patterns like **Clean/Onion Architecture, Domain-Driven Design (DDD), CQRS, and MediatR**.
 * 🤖 **AI Integration:** Utilizing **Semantic Kernel** to natively integrate Large Language Models (LLMs) and orchestration capabilities into .NET enterprise applications.
 * 🌐 **Full-Stack Evolution:** Expanding my toolkit into the frontend with **React.js** and **React Query** to build seamless, end-to-end user experiences.
-* ☁️ **Cloud & Data:** Experienced in handling relational databases with **MS SQL Server** and deploying cloud solutions via **Azure SQL** and **Azure Blob Storage**.
+* ☁️ **Cloud & Data:** Experienced in handling relational databases with **MS SQL Server** and building/deploying cloud solutions on **Azure**.
 
 ---
 
