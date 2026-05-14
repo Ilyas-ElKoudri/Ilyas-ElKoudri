@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ilyas-Elkoudri&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ilyas-Elkoudri" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ilyas-Elkoudri&theme=radical&column=7" alt="Ilyas-Elkoudri" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -19,20 +13,24 @@ I am a software engineer specialized in building robust, high-performance, and s
 
 * 🚀 **Backend Expertise:** Crafting decoupled and highly maintainable APIs using **ASP.NET Core (Web API & MVC)** and **Entity Framework Core**.
 * 🏗️ **Architectural Focus:** Actively implementing complex software patterns including **Clean Architecture, Onion Architecture, Domain-Driven Design (DDD), CQRS, and MediatR**.
-* 🌐 **Full-Stack Evolution:** Currently expanding my toolkit into the frontend with **React.js** and **React Query** to build seamless, end-to-end user experiences.
-* ☁️ **Cloud & Data:** Experienced in handling relational databases with **MS SQL Server** and utilizing cloud solutions like **Azure Blob Storage** and **Azure SQL**.
+* 🤖 **AI Integration:** Utilizing **Semantic Kernel** to natively integrate Large Language Models (LLMs) and orchestration capabilities into .NET enterprise applications.
+* 🌐 **Full-Stack Evolution:** Expanding my toolkit into the frontend with **React.js** and **React Query** to build seamless, end-to-end user experiences.
+* ☁️ **Cloud & Data:** Experienced in handling relational databases with **MS SQL Server** and deploying cloud solutions via **Azure SQL** and **Azure Blob Storage**.
 
 ---
 
 ### 🛠 Languages, Frameworks & Tools
 
-#### 📂 Backend & Architecture
+#### 📂 Backend, Architecture & AI
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45" height="45"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/semantic-kernel/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="45" alt="Semantic Kernel" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" width="45" height="45"/>
@@ -60,6 +58,9 @@ I am a software engineer specialized in building robust, high-performance, and s
 
 #### ⚙️ DevOps & Tooling
 <p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   </a>
@@ -70,19 +71,10 @@ I am a software engineer specialized in building robust, high-performance, and s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ilyas-Elkoudri&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Ilyas-Elkoudri" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ilyas-Elkoudri&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Ilyas-Elkoudri" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ilyas-elkoudri" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ilyas Elkoudri" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ilyas El Koudri" height="30" width="40" />
   </a>
 </p>
