@@ -12,7 +12,7 @@
 I am a software engineer specialized in building robust, high-performance, and scalable backend systems using the modern **.NET ecosystem**. I focus heavily on software craftsmanship, clean code practices, and enterprise-grade architectural design.
 
 * 🚀 **Backend Expertise:** Crafting decoupled and highly maintainable APIs using **ASP.NET Core (Web API & MVC)** and **Entity Framework Core**.
-* 🏗️ **Architectural Focus:** Actively implementing complex software patterns including **Clean Architecture, Onion Architecture, Domain-Driven Design (DDD), CQRS, and MediatR**.
+* 🏗️ **Architectural Focus:** Designing diverse system topologies from robust **Monoliths** and **Modular Monoliths** to scalable **Microservices**, utilizing patterns like **Clean/Onion Architecture, Domain-Driven Design (DDD), CQRS, and MediatR**.
 * 🤖 **AI Integration:** Utilizing **Semantic Kernel** to natively integrate Large Language Models (LLMs) and orchestration capabilities into .NET enterprise applications.
 * 🌐 **Full-Stack Evolution:** Expanding my toolkit into the frontend with **React.js** and **React Query** to build seamless, end-to-end user experiences.
 * ☁️ **Cloud & Data:** Experienced in handling relational databases with **MS SQL Server** and deploying cloud solutions via **Azure SQL** and **Azure Blob Storage**.
@@ -74,7 +74,7 @@ I am a software engineer specialized in building robust, high-performance, and s
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ilyas-elkoudri" target="blank">
+  <a href="https://www.linkedin.com/in/ilyaselkoudri-softwaredev/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ilyas El Koudri" height="30" width="40" />
   </a>
 </p>
